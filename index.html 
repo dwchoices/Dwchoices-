@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur Mon Portfolio</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Mes Projets</h2>
+            <p>Description de mes projets.</p>
+        </section>
+        <section>
+            <h2>A Propos de Moi</h2>
+            <p>Description de moi-même.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Mon Nom</p>
+    </footer>
+</body>
+</html>
